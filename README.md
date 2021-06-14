@@ -9,17 +9,11 @@ In Mexico, the price of gasoline is constantly changing since its prices depend 
 The task
 ----
 
-The objective of this project is proces this fuel prices data obtained from CRE (Comision Regulatoria de Energía en México) in the cloud to storage a daily basis DataWarehouse
+The objective of this project is proces this fuel prices data obtained from [CRE](https://www.datos.gob.mx/busca/dataset/estaciones-de-servicio-gasolineras-y-precios-finales-de-gasolina-y-diesel). (Comision Regulatoria de Energía en México) in the cloud to storage a daily basis in Storage and in Big Query Data Warehouse
 
 Tools that were used to accomplish this task:
 
-- Python
-- SQL
-- Spark
-- BigQuery
-- Google Workflow
-- Apache Airflow
-- Linux
+
 
 [![](Resources/Img/1200px-Python.svg.png)]()   
 
