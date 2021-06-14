@@ -97,8 +97,8 @@ Process
 
 The procedure that was taken to process the information is as follows:
 
-- Apply transformation to flight dealys data using Spark-SQL
-- Save the transformed data into Big Query partitioned tables
+- Get xml element tree from CRE web page
+- S
 - Use Google Workflow templates to automate the Spark ETL batch processing job
 - Use Apache Airflow to create DAGs and automate the batch processing job
 
