@@ -98,7 +98,7 @@ Process
 The procedure that was taken to process the information is as follows:
 
 - Get xml element tree from CRE web page
-- S
+- Struct data in 
 - Use Google Workflow templates to automate the Spark ETL batch processing job
 - Use Apache Airflow to create DAGs and automate the batch processing job
 
