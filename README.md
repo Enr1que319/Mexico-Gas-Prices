@@ -111,4 +111,4 @@ Architecture
 
 Here is the GCP architecture, this shows the resources that are used
 
-[![](Images/arch.jpeg)]()     
+[![](Resources/Img/Arch.png)]()     
