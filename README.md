@@ -13,7 +13,18 @@ The objective of this project is proces this fuel prices data obtained from [CRE
 
 Tools that were used to accomplish this task:
 
-
+- Python
+    - Pandas
+    - Requests
+    - reverse_geocoder
+    - unidecode
+    - pyarrow
+    - google-cloud-bigquery
+    - google-cloud-storage
+    - gcsfs
+- Google Cloud Storage
+- BigQuery
+- Cloud Functions
 
 [![](Resources/Img/1200px-Python.svg.png)]()   
 
