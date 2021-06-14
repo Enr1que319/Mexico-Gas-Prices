@@ -104,6 +104,7 @@ The procedure that was taken to process the information is as follows:
 - Send the final dataframe to Big Query 
 
 There are scripts to run all localy to test the data transformations.
+This proccess runs at 7:30 am with a cloud scheduler using pubsub.
 
 Architecture
 ----
