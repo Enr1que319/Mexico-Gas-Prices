@@ -1,0 +1,8 @@
+requests==2.25.1
+pandas==1.2.4
+google-cloud-storage==1.38.0
+gcsfs==2021.4.0
+google-cloud-bigquery==2.16.0
+pyarrow==4.0.0
+reverse_geocoder==1.5.1
+unidecode==1.2.0
