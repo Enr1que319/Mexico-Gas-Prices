@@ -103,6 +103,7 @@ The procedure that was taken to process the information is as follows:
 - Store transformed data to storage
 - Send the final dataframe to Big Query 
 
+There are scripts to run all localy to test the data transformations.
 
 Architecture
 ----
